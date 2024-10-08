@@ -1,0 +1,34 @@
+{
+    "posts": [
+        {
+            "title": "My First Blog Post",
+            "date":"10/08/2024",
+            "body": "Well, this is my first blog post. I hope it lasts. If anything, I'll have learned to code a blog to some extent. I saw this movie called 18x2 Beyond Youthful Days based off a blog post, and it inspired me to start writing my own pieces.",
+            "tags": ["blogging", "movies"]
+        },
+        {
+            "title": "Starting Photography",
+            "date":"10/08/2024",
+            "body": "This summer, I bought a Fujifilm XS-10 off of eBay. It was definitely a pretty penny, but in my opinion it was worth it in the end.",
+            "tags": [ "hobbies", "photography"]
+        },
+        {
+            "title": "My Future Cafe Recipe Book",
+            "date":"10/08/2024",
+            "body": "First and foremost: my matcha latte recipe. I've recently modified the recipe to a point that I would prefer my own to buying one at a cafe.",
+            "tags": ["recipes", "hobbies"]
+        },
+        {
+            "title": "22 or So Things I Learned at 22",
+            "date":"10/08/2024",
+            "body": "I turn 23 this upcoming Sunday, in approximately 5 days. That is quite scary. I'll be in Colorado, maybe on a mountain. I'm not entirely sure",
+            "tags": ["life"]
+        },
+        {
+            "title": "Study Abroad Travel Log",
+            "date":"10/08/2024",
+            "body": "A comprehensive log of my travels while studying abroad in Singapore Fall of 2023.",
+            "tags": ["life", "traveling"]
+        }
+    ]
+}

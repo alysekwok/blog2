@@ -1,0 +1,13 @@
+.blog-post-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.blog-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+p {
+    text-align: left;
+}

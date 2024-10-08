@@ -7,23 +7,22 @@ export const NavBar = () => {
     const pathname = location.pathname;
 
     const navigationArray = [
-        {title: "Home", link: "/"},
-        {title: "Blog", link: "/blog"},
-        {title: "Resume", link: "/resume"},
-        {title: "Contact", link: "/contact"}
+        {title: "blog", link: "/blog"},
+        {title: "resume", link: "/resume"},
+        {title: "contact", link: "/contact"}
     ];
 
     return (
         <>
             <div className="nav-container">
                 <div className='logo-container'>
-                    <Link to={"/"} className="logo">Alyse Kwok</Link>
+                    <Link to={"/"} className="logo" style={{textDecoration: 'none'}}>alyse kwok</Link>
                 </div>
                 
                 <div className="nav-links-container">
                     {
                         navigationArray.map(({title, link}) => (
-                            <Link to={link} key={link}>
+                            <Link to={link} key={link} style={{textDecoration: 'none'}} className="links">
                                 <p>
                                     {title}
                                 </p>

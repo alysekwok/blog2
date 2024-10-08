@@ -20,9 +20,10 @@ export const Carousel = ({data}) => {
         {data.slides.map((item, idx) => {
         return (
         <img 
-        src={item?.src} 
-        alt={item?.alt} key={idx} 
-        className={slide === idx ? "slide" : "slide slide-hidden"}/>
+            src={item?.src} 
+            alt={item?.alt} key={idx} 
+            className={slide === idx ? "slide" : "slide slide-hidden"}
+        />
         );
     })}
     <BsArrowRightCircleFill 

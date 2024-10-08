@@ -8,9 +8,6 @@ function App() {
   return (
     <>
     <Carousel data={slides}/>
-    <p>
-      hello world again
-    </p>
     </>
   )
 }
