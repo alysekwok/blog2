@@ -7,7 +7,7 @@
             "tags": ["blogging", "movies"]
         },
         {
-            "title": "Starting Photography",
+            "title": "Starting Photography Post",
             "date":"10/08/2024",
             "body": "This summer, I bought a Fujifilm XS-10 off of eBay. It was definitely a pretty penny, but in my opinion it was worth it in the end.",
             "tags": [ "hobbies", "photography"]
@@ -26,6 +26,18 @@
         },
         {
             "title": "Study Abroad Travel Log",
+            "date":"10/08/2024",
+            "body": "A comprehensive log of my travels while studying abroad in Singapore Fall of 2023.",
+            "tags": ["life", "traveling"]
+        },
+        {
+            "title": "Recipe Log",
+            "date":"10/08/2024",
+            "body": "A comprehensive log of my travels while studying abroad in Singapore Fall of 2023.",
+            "tags": ["life", "traveling"]
+        },
+        {
+            "title": "Study Book",
             "date":"10/08/2024",
             "body": "A comprehensive log of my travels while studying abroad in Singapore Fall of 2023.",
             "tags": ["life", "traveling"]
